@@ -1,0 +1,54 @@
+- [ ] Clothing
+  - [x] 6x Recovery kits (compression underwear + tee + shorts/pants)
+  - [x] 4x Basketball kits (shorts + bball shirt + underwear)
+  - [ ]  *1-2x  Basketball kits*  
+  - [ ] 3x Sleep tees
+  - [ ] 1x Formal pants
+  - [ ]  1x Formal shirt
+  - [ ] 1x Windbreaker
+  - [ ] 1x Casual shoes
+  - [ ] 1x Basketball shoes
+  - [ ] *1x outdoor hoop shoes*
+
+- [ ] Supplements / Meds
+  - [ ] Daily multivitamin
+  - [ ] Fish oil
+  - [ ] Vitamin D
+  - [ ] Creatine
+  - [ ] Electrolytes
+  - [ ] Prescription meds
+  - [ ] Pain reliever (ibuprofen/acetaminophen)
+
+- [ ] Electronics
+  - [ ] Phone + charger
+  - [ ] Laptop + charger
+  - [ ] Smartwatch + charger
+  - [ ] Earbuds / headphones
+  - [ ] Portable charger (power bank)
+  - [ ] Travel adapter / plug
+  - [ ] HDMI / USB cables
+
+- [ ] Productivity
+  - [ ] Notebook / planner
+  - [ ] Pens / pencils
+  - [ ] Tablet + stylus
+  - [ ] Important papers / docs
+  - [ ] Book / Kindle
+
+- [ ] Wallet / ID / Passport
+  - [ ] Wallet
+  - [ ] Driver’s license
+  - [ ] Passport
+  - [ ] Credit cards
+  - [ ] Health insurance card
+  - [ ] Cash (USD)
+  - [ ] Transit cards / passes
+
+- [ ] Snacks
+  - [ ] Protein bars
+  - [ ] Trail mix / nuts
+  - [ ] Jerky
+  - [ ] Dried fruit
+  - [ ] Gum / mints
+  - [ ] Electrolyte packets
+  - [ ] Refillable water bottle
